@@ -12,7 +12,7 @@ This repository will be used for Web Apps. In it I plan to expand existing knowl
 1. [Notepad++](https://notepad-plus-plus.org/ "Notepad++ Home") Notepad++ is an excellent tool for learning HTML and CSS which are both recommended to know when creating pages.
 
 ## Recommended Resources
-1. [W3Schools](https://notepad-plus-plus.org/ "W3Schools HTML") When learning HTML and CSS in High School this site provided a majority of solutions to questions I had come up.
+1. [W3Schools](https://www.w3schools.com/ "W3Schools HTML") When learning HTML and CSS in High School this site provided a majority of solutions to questions I had come up.
 1. [Git](https://github.com/ "Github Homepage") Git makes sharing code with contributors fast and easy.
 1. [Stack Overflow](https://stackoverflow.com/ "Stack Overflow Homepage") On Kamran Ahmed's Developer Roadmap it's mentioned to learn a language to get practice programming. With Stack Overflow you can learn Java and solve any question you have by searching your specific problem.
 
